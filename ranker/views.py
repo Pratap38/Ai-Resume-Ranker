@@ -8,7 +8,7 @@ import json
 # ---------------------------
 # ✅ Replace with your Gemini API key
 # ---------------------------
-GEMINI_API_KEY = "AIzaSyB6XqF7tI6fICaqsjknRsrGl0G__9fRdv0"
+GEMINI_API_KEY = "#"
 
 # ---------------------------
 # Correct model endpoint
